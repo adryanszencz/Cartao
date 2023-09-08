@@ -1,0 +1,22 @@
+body{
+    background-color: #0A1A30 !important;
+    font-family: 'Indie Flower';
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.container6 {
+    height: 40rem;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+.container6 a {
+    margin: 0 ;
+    font-size: 25px;
+    color: white !important;
+    font-family: 'Indie Flower', cursive;
+    background-color: black ;
+    opacity:0.6;
+    text-decoration: none;
+    height: 82px;
+    width: 309px;
+    border: solid #F9CB72 ;
+}

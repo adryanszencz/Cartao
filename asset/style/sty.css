@@ -1,0 +1,21 @@
+body{
+    background-image: url("../img/iPhone\ 14\ -\ 6.png");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: end;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+.carouser{
+        display: flex;
+        align-items: center;
+        justify-content: center ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+h1{
+    margin-top: 50% !important;
+    margin-bottom: 30px !important;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}

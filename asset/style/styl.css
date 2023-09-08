@@ -1,0 +1,34 @@
+
+body{
+background-image: url("../img/iPhone\ 14\ -\ 6.png");
+background-color: #cccccc;
+height: 500px;
+background-position: end;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.container6 {
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    height: 40rem;
+    display: flex;
+    align-items: center;
+}
+.container6 .botao {
+    margin: 0 ;
+    font-size: 25px;
+    color: white !important;
+    font-family: 'Indie Flower', cursive;
+    background-color: black ;
+    opacity:0.6;
+    text-decoration: none;
+    height: 82px;
+    width: 309px;
+    border: solid #F9CB72 ;
+}
+.endereço{
+    color: white ;
+    text-decoration: none;
+}
